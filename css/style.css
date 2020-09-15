@@ -397,7 +397,7 @@ body a:hover{
     font-size: 3em;
     margin: 0;
     text-transform: uppercase;
-    font-weight: 400;
+    font-weight: 600;
     margin:1em 0 .5em;
 }
 .banner-info-slider p{
@@ -2237,7 +2237,7 @@ p.iste{
 }
 .well {
     font-weight: 300;
-    font-size: 14px;
+    font-size: 10px;
 }
 .list-group-item {
     font-weight: 300;
