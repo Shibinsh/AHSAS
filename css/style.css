@@ -2235,7 +2235,8 @@ h3.title,.map h3{
 p.iste{
 	color:#999;
 }
-.well {
+.well {	
+	background:url('../images/bg.jpg') 100%;
     font-weight: 300;
     font-size: 14px;
 }
